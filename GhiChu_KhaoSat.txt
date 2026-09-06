@@ -1,0 +1,208 @@
+================================================================================
+                        GHI CHÚ KHẢO SÁT HỆ THỐNG
+                        Đề tài: ĐT-16 - Bảo tàng ảo và tour tham quan 360 độ
+                        Nhóm: 16
+================================================================================
+
+================================================================================
+1. GOOGLE ARTS & CULTURE
+   URL: https://artsandculture.google.com/
+================================================================================
+
+1.1. TỔNG QUAN
+Google Arts & Culture là nền tảng kỹ thuật số hàng đầu thế giới, hợp tác với hơn 
+2.000 bảo tàng và tổ chức văn hóa trên toàn cầu. Nền tảng này cung cấp khả năng 
+tiếp cận miễn phí đến hàng triệu tác phẩm nghệ thuật, hiện vật lịch sử và di sản 
+văn hóa thông qua công nghệ hình ảnh độ phân giải cao và trải nghiệm tương tác.
+
+1.2. CÁC TÍNH NĂNG CHÍNH
+
+a) 360° videos
+Cho phép người dùng trải nghiệm các video góc quay 360 độ tương tác và sống động,
+giúp dễ dàng xoay chuyển góc nhìn toàn cảnh để chiêm ngưỡng các tác phẩm nghệ 
+thuật, danh lam thắng cảnh và di tích văn hóa.[reference:3]
+
+b) Virtual reality tours
+Trải nghiệm thực tế ảo đưa người dùng tham quan trực tiếp các bảo tàng, di tích 
+lịch sử và danh thắng nổi tiếng trên thế giới ngay từ thiết bị cá nhân.[reference:4]
+
+c) Street View
+Tích hợp công nghệ Chế độ xem phố của Google Maps, cho phép di chuyển và dạo bước 
+qua các không gian nội thất của bảo tàng cũng như các khu vực di sản ngoài trời.
+
+d) Explore by time and color
+- Time (Thời gian): Khám phá và du hành qua lịch sử nghệ thuật theo mốc thời gian 
+  chuyển tiếp từ cổ đại đến đương đại.
+- Color (Màu sắc): Tìm kiếm, lọc và phân loại hơn 100.000 tác phẩm nghệ thuật 
+  dựa trên tông màu chủ đạo yêu thích.
+
+e) Explore in 3D & Gigapixel
+- Xem các đối tượng nghệ thuật dưới dạng 3D có thể xoay, phóng to/thu nhỏ.[reference:5]
+- Công nghệ chụp ảnh siêu phân giải (gigapixel) cho phép phóng đại đến từng chi 
+  tiết nhỏ nhất của bức tranh, bao gồm cả vết cọ và vết nứt trên chất liệu.[reference:6]
+
+f) Museum Spotlight
+Giới thiệu chuyên sâu về các bảo tàng đối tác, cung cấp góc nhìn toàn diện về bộ 
+sưu tập và lịch sử hình thành.[reference:7]
+
+1.3. ĐÁNH GIÁ
+Ưu điểm:
++ Kho tàng dữ liệu khổng lồ, đa dạng văn hóa và thời kỳ lịch sử.
++ Chất lượng hình ảnh vượt trội (công nghệ gigapixel, 3D, 360°).
++ Tích hợp đa nền tảng (web, mobile, VR).
++ Giao diện thân thiện, hỗ trợ đa ngôn ngữ.
+
+Hạn chế:
+- Thiếu cấu trúc tự sự và lộ trình dẫn dắt mạch lạc cho người dùng.
+- Dữ liệu phân tán, khó khai thác lại cho bên thứ ba (không có API mở).
+- Tính năng cá nhân hóa còn hạn chế (chủ yếu là lưu bộ sưu tập).
+- Chưa có cơ chế phân tích hành vi người dùng để tối ưu trải nghiệm.
+
+
+================================================================================
+2. BẢO TÀNG LỊCH SỬ QUỐC GIA VIỆT NAM
+   URL: https://baotanglichsuquocgia.vn/vi
+================================================================================
+
+2.1. TỔNG QUAN
+Bảo tàng Lịch sử Quốc gia là bảo tàng hàng đầu Việt Nam, lưu giữ và trưng bày 
+hàng chục nghìn hiện vật quý giá, phản ánh toàn bộ tiến trình lịch sử dân tộc từ 
+thời tiền sử đến hiện đại. Bảo tàng hiện đang từng bước chuyển đổi số, xây dựng 
+hệ thống trưng bày trực tuyến để tiếp cận công chúng rộng rãi hơn.[reference:8]
+
+2.2. THÔNG TIN THAM QUAN THỰC TẾ
+- Địa chỉ cơ sở 1: Số 1 Tràng Tiền, Cửa Nam, Hà Nội.
+- Địa chỉ cơ sở 2: Số 216 Trần Quang Khải, Hoàn Kiếm, Hà Nội.
+- Thời gian mở cửa: Sáng 8:00 – 12:00 | Chiều 13:30 – 17:00
+  (Mở cửa tất cả các ngày trong tuần, trừ thứ Hai).
+
+2.3. TRẢI NGHIỆM TRỰC TUYẾN (3D Interactive)
+Hệ thống trưng bày trực tuyến 3D cho phép người dùng tham quan tương tác không 
+gian trưng bày thường xuyên và các chuyên đề mọi lúc, hỗ trợ quan sát đa chiều 
+nội thất bảo tàng và các khu vực di tích.[reference:9]
+
+2.4. DANH MỤC HIỆN VẬT & BẢO VẬT QUỐC GIA TIÊU BIỂU
+
+a) Văn hóa Đông Sơn:
+- Mộ thuyền Việt Khê
+- Trống đồng Ngọc Lũ
+- Trống đồng Hoàng Hạ
+- Thạp đồng Đào Thịnh
+- Tượng người cõng nhau thổi khèn
+
+b) Cổ vật triều Nguyễn:
+- Ấn vàng "Đại Việt Quốc Nguyễn chúa Vĩnh trấn chi bảo" (1709)
+- Ấn vàng "Hoàng đế tôn thân chi bảo"
+- Ấn ngọc "Đại Nam thụ thiên vĩnh mệnh truyền quốc tỷ"
+
+c) Hiện vật Lịch sử & Cách mạng:
+- Tác phẩm "Đường Kách Mệnh" của Nguyễn Ái Quốc
+- Tượng Chân dung Chủ tịch Hồ Chí Minh (1946) - nữ điêu khắc gia Nguyễn Thị Kim
+- Sổ vàng Trường Nguyễn Ái Quốc (1949 – 1950)
+
+d) Các bảo vật tiêu biểu khác:
+- Cây hương chùa Tứ Kỳ
+- Quả chuông chùa Vân Bản
+- Bình gốm hoa lam vẽ thiên nga
+- Cây đèn đồng Lạch Trường
+
+2.5. ĐÁNH GIÁ
+Ưu điểm:
++ Hệ thống hiện vật phong phú, có giá trị lịch sử và văn hóa đặc sắc.
++ Đang từng bước số hóa và phát triển trải nghiệm 3D trực tuyến.
++ Phù hợp với đối tượng khách tham quan trong nước và nghiên cứu lịch sử.
+
+Hạn chế:
+- Giao diện trải nghiệm 3D còn đơn giản, chủ yếu là trình chiếu tĩnh.
+- Thiếu thuyết minh âm thanh đa ngữ (chỉ có tiếng Việt).
+- Không có điểm nóng thông tin (hotspot) tương tác với hiện vật.
+- Chưa có API mở, dữ liệu không thể khai thác lại.
+- Chưa hỗ trợ người khuyết tật (thiếu alt text, điều hướng bàn phím).
+
+
+================================================================================
+3. MUSÉE D'ORSAY (PARIS, PHÁP)
+   URL: https://www.musee-orsay.fr/fr
+================================================================================
+
+3.1. TỔNG QUAN
+Bảo tàng Musée d'Orsay là một trong những bảo tàng nghệ thuật nổi tiếng nhất thế 
+giới, tọa lạc tại Paris, Pháp. Bảo tàng được cải tạo từ nhà ga xe lửa cũ Gare 
+d'Orsay (xây dựng cuối thế kỷ 19), giữ nguyên vòm mái kính lớn và chiếc đồng hồ 
+khổng lồ đặc trưng. Bảo tàng lưu giữ bộ sưu tập đồ sộ các tác phẩm nghệ thuật 
+thuộc trường phái Ấn tượng và Hậu Ấn tượng.[reference:10]
+
+3.2. TRẢI NGHIỆM THAM QUAN ẢO (Trên nền tảng Google Arts & Culture)
+Tour tham quan ảo của Musée d'Orsay được triển khai trên nền tảng Google Arts & 
+Culture với chế độ Virtual Visit / Street View, cho phép người dùng toàn cầu 
+khám phá không gian bảo tàng một cách chân thực.
+
+3.3. KHÔNG GIAN KIẾN TRÚC & CÁCH BÀI TRÍ
+- Tầng trệt (Ground Floor): Trưng bày các tác phẩm điêu khắc dọc hành lang trung 
+  tâm và tranh vẽ giai đoạn mid-19th century.
+- Tầng trên cùng (Top Floor): Khu vực trọng tâm chứa các kiệt tác Ấn tượng và Hậu 
+  Ấn tượng với ánh sáng tự nhiên từ mái kính.
+- Trải nghiệm tương tác: Chế độ xem 360° cho phép di chuyển mượt mà qua từng 
+  phòng gallery, zoom chi tiết bề mặt nét vẽ và chất liệu tác phẩm.
+
+3.4. CÁC TÁC PHẨM NỔI BẬT
+- "Starry Night Over the Rhône" (Vincent van Gogh, 1888): Bầu trời đêm huyền ảo 
+  bên sông Rhône với sắc xanh và vàng đặc trưng.
+- "Bal du moulin de la Galette" (Pierre-Auguste Renoir, 1876): Khung cảnh nhảy 
+  múa ngoài trời của giới trẻ Paris.
+- "Olympia" (Édouard Manet, 1863): Tác phẩm gây tranh cãi lịch sử về phong cách 
+  tả thực hiện đại.
+- Sê-ri "Water Lilies" / "Femmes au jardin" (Claude Monet): Bậc thầy xử lý ánh 
+  sáng và màu sắc thiên nhiên.
+
+3.5. ĐÁNH GIÁ
+Ưu điểm:
++ Chất lượng hình ảnh kỹ thuật số độ phân giải cao, cho phép quan sát rõ từng 
+  vết cọ và chi tiết tác phẩm.
++ Không gian tương tác trực quan, cung cấp đầy đủ thông tin chi tiết (tên tác 
+  giả, năm sáng tác, chất liệu) ngay trên màn hình.
++ Trải nghiệm có cấu trúc tự sự, phân chia không gian theo tầng và chủ đề rõ ràng.
++ Giúp người xem dễ dàng tiếp cận không gian nghệ thuật đẳng cấp thế giới mà 
+  không gặp rào cản địa lý.
+
+Hạn chế:
+- Thiếu không khí thực tế và cảm giác về quy mô không gian 3D thực sự của các 
+  bức tranh cỡ lớn.
+- Giao diện khá phức tạp, chưa thân thiện với người cao tuổi.
+- Chưa hỗ trợ đầy đủ chuẩn tiếp cận WCAG.
+- Chỉ hỗ trợ một số ngôn ngữ chính, chưa có tiếng Việt.
+
+
+================================================================================
+4. TỔNG HỢP & KHOẢNG TRỐNG NGHIÊN CỨU
+================================================================================
+
+Qua khảo sát ba hệ thống bảo tàng ảo tiêu biểu, nhóm rút ra ba hạn chế chính 
+của các nền tảng hiện nay:
+
+(1) Thiếu cấu trúc tự sự và lộ trình dẫn dắt:
+    Google Arts & Culture cung cấp kho tàng khổng lồ nhưng người dùng dễ bị lạc 
+    trong mê cung thông tin. Musée d'Orsay có tổ chức theo chủ đề nhưng giao 
+    diện chưa thân thiện. Bảo tàng LSQG Việt Nam chỉ dừng ở trình chiếu tĩnh.
+
+(2) Dữ liệu điểm nóng (Hotspot) thường tĩnh:
+    Hầu hết các hệ thống chỉ hiển thị ảnh mà thiếu lớp tri thức sâu, không có 
+    thuyết minh đa ngữ hay tương tác với hiện vật.
+
+(3) Chưa có cơ chế phân tích hành vi:
+    Không hệ thống nào cung cấp công cụ phân tích hành vi tham quan để tối ưu 
+    trải nghiệm hoặc phát hiện điểm bỏ dở (drop-off).
+
+KHOẢNG TRỐNG MÀ ĐT-16 HƯỚNG TỚI:
+Nhóm đề xuất xây dựng một hệ thống lai ghép giữa trải nghiệm 360° sống động 
+(như Google Arts) và cấu trúc tự sự có dẫn dắt (như Musée d'Orsay), đồng thời 
+bổ sung:
+- Lớp dữ liệu mở (OpenAPI) theo chuẩn schema.org
+- Mô-đun Python phân tích hành vi tham quan (thời gian xem, điểm thoát, phân cụm 
+  người dùng)
+- Giao diện đa chủ đề, hỗ trợ WCAG 2.1 AA cho người khuyết tật
+- Thuyết minh âm thanh đa ngữ (Việt - Anh - Pháp)
+
+================================================================================
+                        END OF REPORT
+================================================================================
